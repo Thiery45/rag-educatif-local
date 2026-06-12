@@ -1,0 +1,24 @@
+# Interface web
+streamlit==1.58.0
+
+# Framework d'orchestration LLM
+langchain==1.0.0
+langchain-community==0.2.6
+langchain-text-splitters==0.0.8
+langchain-ollama==0.0.4
+langchain-huggingface==0.0.7
+
+# Lecture PDF
+pypdf==3.14.0
+
+# Embeddings
+sentence-transformers==2.2.2
+transformers==5.9.0
+torch==2.12.0
+torchvision==0.18.1
+
+# Base vectorielle
+faiss-cpu==1.7.4
+
+# LLM local
+ollama==0.30.0
